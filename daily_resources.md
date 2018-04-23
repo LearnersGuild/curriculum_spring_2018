@@ -1,2 +1,0 @@
-- 4/20 — javascript.info
-- 4/19 — Base CS blog posts and podcast
