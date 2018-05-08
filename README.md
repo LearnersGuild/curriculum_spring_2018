@@ -1,8 +1,6 @@
-Learner's Guild Curriculum - Spring 2018
+###Learner's Guild Curriculum - Spring 2018
 
-## Categories:
-
-[Schedule](#schedule)
+[Schedule](#schedule)  
 [Lightning Talks](#lightning-talks)  
 [Tips n Tricks](#tips-n-tricks)  
 [Topic Dives](#topic-dives)  
@@ -15,12 +13,12 @@ Learner's Guild Curriculum - Spring 2018
   * W, Th, F - Lightning talks 1pm (sign up)
   * Th 1-3 - live coding / deep dive / testing
 
-* April 30 - May 4 (Anne M,T,W):
+* **April 30 - May 4** (Anne M,T,W):
   * M - Lightning Talks & Whiteboard (see signup)
   * T, W - Lightning Talks and Topic talks
   * Th - Project work day (no SEP on site)
   * F - Field trip to Mapbox office in SF
-* April 23 - 27 : React & Redux week
+* **April 23 - 27**  React & Redux week
   * T,W,Th,F Lightning Talks (see signup)
   * Monday: (Anne & Mark)
      * 1:1's - make sure work plans are in slack.
@@ -60,4 +58,4 @@ A place to list tips, sites, resources for learning.
  * Online Interview Practice with [Pramp](https://www.pramp.com/)
  * 4/20 — javascript.info
  * 4/19 — Base CS blog posts and podcast
- * 5/7 - Tech Superwomen - Youtube channel 
+ * 5/7 - Tech Superwomen - Youtube channel
